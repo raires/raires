@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raires (Rodrigo Aires)
-- :airplane: Commertial Pilot and Flight Instructor
+- :airplane: Airplane Commertial Pilot and Flight Instructor
 - :computer::iphone: Software Engineer for over 20 years 
 - 👀 I’m interested in many different things but talking about coding I'm into (mainly, not limited) C#, NodeJS, SQL, React, Angular, Python, ...
 - 🌱 I’m currently learning a bunch of stuff like Python, ArcGIS ...
