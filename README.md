@@ -61,7 +61,7 @@ I’m focused on practical AI adoption in software engineering: using LLMs, agen
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.icons8.com/fluency/25/15/linkedin.png) [LinkedIn](https://www.linkedin.com/in/rodrigoaires/)]
+![LinkedIn](https://img.icons8.com/fluency/25/15/linkedin.png) [LinkedIn](https://www.linkedin.com/in/rodrigoaires/)
 
 ---
 
